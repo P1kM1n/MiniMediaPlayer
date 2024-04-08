@@ -98,5 +98,5 @@ def main(folder_path):
 
 if __name__ == "__main__":
     # Specify the folder to monitor
-    folder_path = "media/My Friend Pedro - 20220120231057.png"
+    folder_path = "media/"
     main(folder_path)
